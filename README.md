@@ -6,7 +6,7 @@ Super Mario Jumper Enhanced, developed by Sameer Kamani, is an enhanced version 
 - Bug fixes and optimizations for a smoother gameplay experience.
 - Introduction of start and end titles for a more polished presentation.
 - Innovative IR sensor implementation allowing Mario to jump based on real-world signals.
-- Sameer Kamani's enhancements for an enriched gaming experience.
+- Enhancements for an enriched gaming experience.
 
 **Architecture Overview:**
 The repository maintains the core architecture of the original game, featuring VGA modules, a graphics engine, ROM, RAM, audio engine, game logic, scrolling logic, and data read/write control. Sameer Kamani's enhancements seamlessly integrate with the existing architecture, providing an improved and enriched gaming experience.
